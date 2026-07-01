@@ -9,6 +9,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0001-two-sum](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1518-water-bottles) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
