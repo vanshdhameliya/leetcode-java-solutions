@@ -10,6 +10,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0011-container-with-most-water](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0011-container-with-most-water](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0392-is-subsequence) |
@@ -57,6 +59,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
