@@ -33,6 +33,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | ------- |
 | [0007-reverse-integer](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/1518-water-bottles) |
 ## Simulation
@@ -67,4 +68,8 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
