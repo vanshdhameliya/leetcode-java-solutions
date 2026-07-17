@@ -13,6 +13,7 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 | [0027-remove-element](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0078-subsets) |
+| [0704-binary-search](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -101,4 +102,8 @@ A curated collection of LeetCode solutions in Java, organized by topic and diffi
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vanshdhameliya/leetcode-java-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
